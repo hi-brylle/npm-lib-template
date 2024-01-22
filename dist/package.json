@@ -1,12 +1,16 @@
 {
-    "name":"@hi-brylle/npm-lib-template",
-    "version": "1.0.0",
+    "name": "@hi-brylle/npm-lib-template",
+    "version": "1.0.1",
     "description": "A library template written in TypeScript",
     "main": "lib/es5/index.js",
     "module": "lib/es6/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/hi-brylle/npm-lib-template"
+        "url": "https://github.com/hi-brylle/npm-lib-template.git"
     },
-    "keywords": ["typescript", "library", "sample"]
+    "keywords": [
+        "typescript",
+        "library",
+        "sample"
+    ]
 }
