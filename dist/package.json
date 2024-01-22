@@ -1,0 +1,8 @@
+{
+    "name":"@hi-brylle/npm-lib-template",
+    "version": "1.0.0",
+    "description": "A library template written in TypeScript",
+    "main": "lib/es5/index.js",
+    "module": "lib/es6/index.js",
+    "keywords": ["typescript", "library", "sample"]
+}

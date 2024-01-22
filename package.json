@@ -1,0 +1,10 @@
+{
+    "name": "npm-lib-template",
+    "license":"MIT",
+    "scripts": {
+        "compile": "rm -rf dist/lib && tsc && tsc --build tsconfig.es5.json"
+    },
+    "devDependencies": {
+        "typescript": "^5.3.3"
+    }
+}
